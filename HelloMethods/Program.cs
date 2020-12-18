@@ -6,7 +6,12 @@ namespace HelloMethods
     {
         public static void Main(string[] args)
         {
-            string message = Message.GetMessage("fr");
+            string abbv;
+            string message;
+
+            Console.WriteLine("Please enter a lang abbreviation");
+            abbv = Console.ReadLine();
+            message = Message.GetMessageSwitch(abbv);
             Console.WriteLine(message);
             Console.ReadLine();
         }

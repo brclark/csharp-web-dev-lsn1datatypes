@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConverter", "TempConver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMethods", "HelloMethods\HelloMethods.csproj", "{5DDF587E-34B6-430B-96A0-F9DB1A786915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopExercise", "LoopExercise\LoopExercise.csproj", "{F1746A9D-71A7-45D9-B3BB-B9C570F1BEFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{5DDF587E-34B6-430B-96A0-F9DB1A786915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DDF587E-34B6-430B-96A0-F9DB1A786915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DDF587E-34B6-430B-96A0-F9DB1A786915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1746A9D-71A7-45D9-B3BB-B9C570F1BEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1746A9D-71A7-45D9-B3BB-B9C570F1BEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1746A9D-71A7-45D9-B3BB-B9C570F1BEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1746A9D-71A7-45D9-B3BB-B9C570F1BEFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
